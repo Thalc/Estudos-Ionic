@@ -1,0 +1,7 @@
+{
+  "name": "rastreador-correio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
